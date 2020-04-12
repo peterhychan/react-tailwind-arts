@@ -6,7 +6,7 @@ const Header = () => {
       <nav class="flex items-center justify-between flex-wrap bg-blue-500 p-6">
         <div class="flex items-center flex-shrink-0 text-white mr-6">
           <a href="/" class="font-semibold text-xl tracking-tight">
-            The Simple Album
+            React-Tailwind-Arts
           </a>
         </div>
         <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto">
@@ -25,15 +25,9 @@ const Header = () => {
             </a>
             <a
               href="https://pixabay.com/api/docs/"
-              class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4"
-            >
-              Pixabay Image API
-            </a>
-            <a
-              href="https://www.smashingmagazine.com/2020/02/tailwindcss-react-project/"
               class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white"
             >
-              Reference
+              Pixabay Image API
             </a>
           </div>
           <div>
